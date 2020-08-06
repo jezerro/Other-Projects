@@ -25,5 +25,5 @@ In this repository i will post every other project i've done and either lost the
 
 • The Game Trailer - A cool trailer i made for the university including a world made by scratch in Unity.
 
-<img src="https://github.com/Mistral-Designs/Other-Projects/blob/master/trailer.gif.png" width="500">
+<img src="https://github.com/Mistral-Designs/Other-Projects/blob/master/trailer.gif" width="500">
 
