@@ -27,3 +27,5 @@ In this repository i will post every other project i've done and either lost the
 
 <img src="https://github.com/Mistral-Designs/Other-Projects/blob/master/trailer.gif" width="500">
 
+• *Projects abandoned in very early stages are not included (Unity mostly)*
+
