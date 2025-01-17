@@ -1,5 +1,4 @@
 # Other-Projects
-Projects that i've lost the source
 
 In this repository i will post every other project i've done and either lost the source or is of different nature. Projects abandoned in very early stages (mostly Unity) are not included. In here you will find:
 
